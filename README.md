@@ -1,4 +1,6 @@
-# Deep Learning from zero to GANs with Pytorch course
+# Deep Learning from zero to GANs with Pytorch certification.
+
+This repositoty store all assigments notebook for course Deep Larning with Pytorch.
 
 Original Repository:
 
