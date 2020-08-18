@@ -6,4 +6,6 @@ Original Repository:
 
 https://jovian.ml/jhonathanortiz
 
-Free online certification with JovianML and FreeCodeCamp
+Free online certification with JovianML and FreeCodeCam
+
+![](https://raw.githubusercontent.com/JhonathanOrtiz/FreeCodeCampCourse/master/certificate%5B1%5D_page-0001.jpg)
